@@ -15,7 +15,7 @@ Once the application is running, you can perform the following CRUD operations:
 # Dependencies
 The following dependencies are used in this project:
 
-Spring Boot 3.1.2
-Spring Data JPA 3.1.2
-MySQL Connector/J 8.0.32
-Maven
+- Spring Boot 3.1.2
+- Spring Data JPA 3.1.2
+- MySQL Connector/J 8.0.32
+- Maven
